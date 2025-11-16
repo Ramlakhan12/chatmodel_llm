@@ -15,7 +15,6 @@ This architecture allows users to start new chats, maintain separate conversatio
 * **Multi-Threading:** Users can create new chat sessions (`thread_id`) and switch between any previously saved conversations listed in the sidebar.
 * **Streaming UI:** Leverages Streamlit's `st.write_stream` for **real-time, token-by-token** display of the AI response, enhancing user experience.
 
----[text](62b07274-fca6-4da5-a9a5-3ec03d5f70d6.webm)
 <video controls src="62b07274-fca6-4da5-a9a5-3ec03d5f70d6-1.mp4" title="Title"></video>
 
 ## 🛠️ Project Dependencies
