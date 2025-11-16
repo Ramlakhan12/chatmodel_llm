@@ -48,4 +48,3 @@ Open your terminal or command prompt and execute the following commands to clone
 
 ```bash
 git clone https://github.com/Ramlakhan12/chatmodel_llm.git
-cd nlp-project
